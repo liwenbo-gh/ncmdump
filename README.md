@@ -4,7 +4,7 @@
 
 - [NinoDEVLOP/ncmdump](https://github.com/NinoDEVLOP/ncmdump)：我作为参考的Java项目
 
-- [nondanee/ncmdump](https://github.com/nondanee/ncmdump)：NinoDEVLOP作为参考的python项目
+- [nondanee/ncmdump](https://github.com/nondanee/ncmdump)：NinoDEVLOP参考的python项目
 
 - [anonymous5l/ncmdump](https://github.com/anonymous5l/ncmdump)：python项目参考的原始C++项目
 
