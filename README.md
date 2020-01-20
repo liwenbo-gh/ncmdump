@@ -19,6 +19,4 @@ java -Dfile.encoding=utf-8 -jar ncmdump-jar-with-dependencies.jar C:\music\test.
 
 ```
 
-​    会在.ncm文件所在位置生成可以直接播放的正常格式的音乐文件。
-
-ps: 使用前请提前安装好正常的jdk环境
+​    正常格式的音乐文件报存在./music件夹中。
